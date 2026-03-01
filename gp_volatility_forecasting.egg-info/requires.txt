@@ -1,0 +1,13 @@
+gpytorch>=1.11
+numpy>=1.26
+pandas>=2.1
+pyarrow>=15.0
+PyYAML>=6.0
+scikit-learn>=1.4
+streamlit>=1.32
+torch>=2.2
+plotly>=5.19
+yfinance>=0.2.37
+
+[dev]
+pytest>=8.0
