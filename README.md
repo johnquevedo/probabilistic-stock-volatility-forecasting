@@ -101,13 +101,6 @@ The dashboard includes five sections:
 - If you increase the window well above 1000 observations, training latency will rise sharply because exact GP inference scales cubically.
 - CUDA is supported automatically when available, but not required.
 
-## Screenshots
-
-Add screenshots here after running the dashboard:
-
-- `docs/screenshots/overview.png`
-- `docs/screenshots/calibration.png`
-
 ## Tests
 
 ```bash
